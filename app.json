@@ -1,6 +1,6 @@
 {
-    "name": "Aquabot - MD",
-    "description": "AQUABOT  - Makes it easy and fun to use Whatsapp.",
+    "name": "Imasha - MD",
+    "description": "IMASHABOT  - Makes it easy and fun to use Whatsapp.",
     "logo": "https://i.ibb.co/V9jYrQC/aqua-md.jpg",
     "keywords": ["whatsapp", "userbot", "aqua", "bot", "ai" , "MD" ],
     "repository": "https://github.com/sanuwaofficial/AQUABOT-MD",
@@ -95,37 +95,37 @@
       },
        "SONG_DOWN": {
             "description": "",
-            "value": "*📥Downloading your song...*" ,
+            "value": "*📥*◦•●◉ඔන්න ඔයාගේ සිංදුව 𝐝𝐨𝐰𝐧𝐥𝐨𝐚𝐝 වෙනවා 🙈❤️◉●•◦*..*" ,
             "required": true
       }, 
         "SONG_UP": {
             "description": "",
-            "value": "*📤Uploading your song...*" ,
+            "value": "*📤*◦•●◉ඔන්න ඔයාගේ සිංදුව 𝐮𝐩𝐥𝐨𝐚𝐫𝐝 වෙනවා 🙈❤️◉●•◦*..*" ,
             "required": true
       },
           "VIDEO_DOWN": {
             "description": "",
-            "value": "*📥Downloading your video...*" ,
+            "value": "*📥*◦•●◉ඔන්න ඔයාගේ වීඩියෝ එක 𝐝𝐨𝐰𝐧𝐥𝐨𝐚𝐝 වෙනවා 🙈❤️◉●•◦*..*" ,
             "required": true
       },
           "VIDEO_UP": {
             "description": "",
-            "value": "*📤Uploading your video...*" ,
+            "value": "*📤*◦•●◉ඔන්න ඔයාගේ වීඩියෝ එක 𝐮𝐩𝐥𝐨𝐚𝐫𝐝 වෙනවා 🙈❤️◉●•◦*..*" ,
             "required": true
       },
           "FILE_DOWN": {
             "description": "",
-            "value": "*📥Downloading your file...*" ,
+            "value": "*📥*◦•●◉ඔන්න ඔයාගේ ෆයිල් එක 𝐝𝐨𝐰𝐧𝐥𝐨𝐚𝐝 වෙනවා 🙈❤️◉●•◦*..*" ,
             "required": true
       },
           "FILE_UP": {
             "description": "",
-            "value": "*📤Uploading your file...*" ,
+            "value": "*📤*◦•●◉ඔන්න ඔයාගේ ෆයිල් එක 𝐮𝐩𝐥𝐨𝐚𝐫𝐝 වෙනවා 🙈❤️◉●•◦*..*" ,
             "required": true
       },
           "STIC_WM": {
             "description": "",
-            "value": "⛲αqυα ⃨𝚋oƚ ࿐" ,
+            "value": "🧸♥️🌿 ɪᴍᴀꜱʜᴀ ᴘᴀᴛʜᴜᴍ 🌿♥️🧸" ,
             "required": true
       },
           "WORK_TYPE": {
